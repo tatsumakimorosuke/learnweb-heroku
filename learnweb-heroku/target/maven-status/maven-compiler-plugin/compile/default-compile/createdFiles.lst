@@ -1,0 +1,9 @@
+ItemDetailServlet.class
+shopping\ItemsViewModel.class
+items\ItemManager.class
+shopping\ItemSummaryView.class
+shopping\Item.class
+shopping\ItemImageView.class
+shopping\ItemDetailView.class
+img\ImageManager.class
+shopping\ItemDetailViewModel.class
